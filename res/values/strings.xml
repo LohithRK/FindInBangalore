@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Find In Bangalore</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="category_names">
+        <item>Malls</item>
+        <item>Orphanages</item>
+        <item>Engineering Colleges</item>
+        <item>Hospitals</item>
+        <item>Police Stations</item>
+        <item>Hotels</item>
+        <item>Parks</item>
+        <item>Bus Stations</item>
+        <item>Metro Stations</item>
+        <item>Others</item>
+    </string-array>
+
+    <array name="category_icons">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </array>
+
+    <string-array name="area_names">
+        <item>Yeshwantpur</item>
+        <item>Majestic</item>
+        <item>Vijayanagar</item>
+        <item>Kalasi Palya</item>
+        <item>K R Market</item>
+        <item>IndiraNagar</item>
+        <item>Jayanagar</item>
+        <item>J P Nagar</item>
+        <item>Shantinagar</item>
+        <item>Electronic City</item>
+        <item>Yelahanka</item>
+        <item>Domlur</item>
+        <item>K R Puram</item>
+        <item>Malleshwaram</item>
+        <item>Koramangala</item>
+        <item>Kengeri</item>
+        <item>Hebbal</item>
+        <item>Banashankari</item>
+        <item>Bellandur</item>
+        <item>Marthahalli</item>
+        <item>WhiteField</item>
+        <item>Peenya</item>
+        <item>Shivajinagar</item>
+        <item>Rajajinagar</item>
+        <item>Nelamangala</item>
+    </string-array>
+    <string-array name="result_names">
+        <item>Result 1</item>
+        <item>Result 2</item>
+        <item>Result 3</item>
+        <item>Result 4</item>
+        <item>Result 5</item>
+        <item>Result 6</item>
+        <item>Result 7</item>
+        <item>Result 8</item>
+        <item>Result 9</item>
+        <item>Result 10</item>
+    </string-array>
+
+    <array name="result_icons">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </array>
+
+    <string name="title_activity_information">InformationActivity</string>
+
+</resources>
